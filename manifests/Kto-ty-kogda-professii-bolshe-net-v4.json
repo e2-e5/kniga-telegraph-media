@@ -1,0 +1,12 @@
+{
+  "path": "Kto-ty-kogda-professii-bolshe-net-v4",
+  "assets": [
+    {
+      "path": "pages/Kto-ty-kogda-professii-bolshe-net-v4/hero.jpg",
+      "sha": "347e2ff68369cd5fce413b980f9e5985730743a0",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/e2-e5/kniga-telegraph-media@1c80ffa29480b92dbbc1b45284c69c9b4930f9e1/pages/Kto-ty-kogda-professii-bolshe-net-v4/hero.jpg",
+      "commit_sha": "1c80ffa29480b92dbbc1b45284c69c9b4930f9e1"
+    }
+  ],
+  "updated_at": "2026-07-02T18:05:00Z"
+}
